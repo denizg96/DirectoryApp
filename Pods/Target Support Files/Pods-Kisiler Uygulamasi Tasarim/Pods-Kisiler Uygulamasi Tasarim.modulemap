@@ -1,0 +1,6 @@
+framework module Pods_Kisiler_Uygulamasi_Tasarim {
+  umbrella header "Pods-Kisiler Uygulamasi Tasarim-umbrella.h"
+
+  export *
+  module * { export * }
+}

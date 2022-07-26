@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Kisiler_Uygulamasi_Tasarim_Kisiler_Uygulamasi_TasarimUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Kisiler_Uygulamasi_Tasarim_Kisiler_Uygulamasi_TasarimUITests
+@end
